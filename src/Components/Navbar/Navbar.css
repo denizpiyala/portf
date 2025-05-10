@@ -4,6 +4,11 @@
     align-items: center;
     margin: 20px 110px;
 }
+.logo {
+    width: 200px;
+    height: 80px;
+    cursor: pointer;
+}
 .nav-links {
     display: flex;
     gap: 30px;
