@@ -17,17 +17,6 @@
     font-weight: 500;
 }
 
-.about-title img {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    z-index: -1;
-    width: 100px;
-    height: 100px;
-    margin-left: 120px;
-    
-}
-
 .about-section {
     display: flex;
     gap: 80px;
@@ -52,6 +41,22 @@
     margin-bottom: 10px;
 }
 
+.about-skill p {
+    min-width: 150px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.about-skill hr {
+    outline: none;
+    border: none;
+    width: 50%;
+    height: 8px;
+    border-radius: 50px;
+    background: linear-gradient(267deg, #8F87F1 30.0%, #FED2E2 100.0%);
+    ;
+}
+
 .about-skills {
     display: flex;
     flex-direction: column;
@@ -66,10 +71,20 @@
 
 .about-achievements {
     margin-top: 40px;
+    display: flex;
+    margin-bottom: 80px;
     text-align: center;
 }
 
 .about-achievement h1 {
     font-size: 28px;
     margin-bottom: 10px;
+}
+
+.about-achievement img {
+    bottom: 0;
+    right: 0;
+    width: 100px;
+    height: 100px;
+    margin-left: 120px;
 }

@@ -8,7 +8,6 @@ const About: React.FC = () => {
         <div className='about'>
             <div className="about-title">
                 <h1>About Me</h1>
-                <img src={folder} alt='folder' />
             </div>
             <div className="about-section">
                 <div className="about-left">
@@ -39,7 +38,7 @@ const About: React.FC = () => {
             <div className='about-achievements'>
                 <div className="about-achievement">
                     <h1>PROJECTS COMPLETED</h1>
-                    <p>Netflix clonu , mini languege game ,weather app , E-ticaret </p>
+                    <img src={folder} alt='' />
                 </div>
             </div>
         </div>
