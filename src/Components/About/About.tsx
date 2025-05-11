@@ -35,12 +35,7 @@ const About: React.FC = () => {
                     </div>
                 </div>
             </div>
-            <div className='about-achievements'>
-                <div className="about-achievement">
-                    <h1>PROJECTS COMPLETED</h1>
-                    <img src={folder} alt='' />
-                </div>
-            </div>
+
         </div>
     );
 };

@@ -69,22 +69,3 @@
     gap: 20px;
 }
 
-.about-achievements {
-    margin-top: 40px;
-    display: flex;
-    margin-bottom: 80px;
-    text-align: center;
-}
-
-.about-achievement h1 {
-    font-size: 28px;
-    margin-bottom: 10px;
-}
-
-.about-achievement img {
-    bottom: 0;
-    right: 0;
-    width: 100px;
-    height: 100px;
-    margin-left: 120px;
-}
