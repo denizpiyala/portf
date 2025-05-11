@@ -1,7 +1,6 @@
 import type React from 'react';
 import './About.css';
 import profile2 from '../../assets/profile2.jpg';
-import folder from '../../assets/folder.png';
 
 const About: React.FC = () => {
     return (
