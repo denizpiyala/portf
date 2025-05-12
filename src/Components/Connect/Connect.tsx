@@ -18,7 +18,7 @@ const Connect : React.FC = () => {
           <h3>My İnfo</h3>
           <p><strong>Email:</strong>denizzzz</p>
           <p><strong>Location:</strong>izmir , çanakkale, tekirdağ</p>
-          <p><strong>Phone:</strong>+90 541 945 11 13</p>
+          <p><strong>Phone:</strong>+90 </p>
       </div>
 
     </div>
